@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\epi_project_pfe.props" />
+</Project>

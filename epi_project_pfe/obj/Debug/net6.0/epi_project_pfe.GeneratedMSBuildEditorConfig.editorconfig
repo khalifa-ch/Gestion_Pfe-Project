@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = epi_project_pfe
+build_property.RootNamespace = epi_project_pfe
+build_property.ProjectDir = C:\Users\Yassine Ben Ghanem\source\repos\epi_project_pfe\epi_project_pfe\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Yassine Ben Ghanem\source\repos\epi_project_pfe\epi_project_pfe
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Enseignants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5zZWlnbmFudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Enseignants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5zZWlnbmFudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Enseignants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5zZWlnbmFudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Enseignants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5zZWlnbmFudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Enseignants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5zZWlnbmFudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Etudiants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Etudiants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Etudiants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Etudiants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Etudiants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFEs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFEs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFEs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFEs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFEs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFE_ETUDIANT/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFX0VUVURJQU5UXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFE_ETUDIANT/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFX0VUVURJQU5UXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFE_ETUDIANT/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFX0VUVURJQU5UXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFE_ETUDIANT/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFX0VUVURJQU5UXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/PFE_ETUDIANT/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEZFX0VUVURJQU5UXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Societes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWV0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Societes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWV0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Societes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWV0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Societes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWV0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Societes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWV0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Soutenances/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291dGVuYW5jZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Soutenances/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291dGVuYW5jZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Soutenances/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291dGVuYW5jZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Soutenances/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291dGVuYW5jZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Soutenances/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291dGVuYW5jZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yassine Ben Ghanem/source/repos/epi_project_pfe/epi_project_pfe/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mm2ulv2qij
